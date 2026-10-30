@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-toledo",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "City of Toledo GIS — Toledo, Ohio open geospatial data (ArcGIS).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "arcgis-toledo",
     "gatewaySlug": "arcgis-toledo",
-    "sourceHash": "v1-1f29fd6eee016296c32db00a4e7659d2262aa3d25930def91f6363688f68f03f",
-    "sourceCommit": "c6136b81713e72ccb22977ca0c0cd981f8c3f081"
+    "sourceHash": "v1-492963eaff1414743f9a2dd73bb1eaa89d382316f2717db39ef16a79fce4d7cf",
+    "sourceCommit": "5cb09714e895571153f3d9663c36ff0f140cadd6"
   }
 }
